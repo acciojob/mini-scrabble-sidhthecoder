@@ -1,17 +1,1 @@
 
-/* Your CSS Code here. */
-label {
-  font-size: 18px;
-  font-weight: bold;
-}
-
-input[type="text"] {
-  font-size: 24px;
-  padding: 8px;
-  margin: 10px 0;
-}
-
-h3 {
-  font-size: 48px;
-  margin-top: 20px;
-}
